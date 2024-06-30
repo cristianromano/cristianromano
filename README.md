@@ -71,5 +71,4 @@
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianromano&show_icons=true&locale=en&layout=compact" alt="cristianromano" /></p>
 
