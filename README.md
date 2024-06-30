@@ -1,7 +1,4 @@
 <h1 align="center">Hola 👋, mi nombre es Cristian!</h1>
-<h3 align="center">Soy un apasionado desarrollador de Argentina</h3>
-
-- 🌱 Actualmente me encuentro desarollandome en **Frameworks**
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
